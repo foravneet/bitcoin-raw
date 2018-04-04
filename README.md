@@ -1,1 +1,1 @@
-# bitcoin-raw
+Sample code to create raw bitcoin transactions 
